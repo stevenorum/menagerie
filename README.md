@@ -35,4 +35,4 @@ Note 2: Although I generally attempt to write secure software, none of the packa
 
 Note 3: Most/possibly all of my python code is written for python3 and may not work with python2, or even versions of python3 prior to python3.6.
 
-Note 4: I have dozens of other public GitHub repos not listed here.  They're a mix of random stuff that I've abandoned but haven't gotten around to cleaning up, old stuff that isn't really interesting, and stuff I'm working on that may or may not eventually end up listed here.
+Note 4: I have dozens of other public GitHub repos not listed here.  They're a mix of random stuff that I've abandoned but haven't gotten around to cleaning up, old stuff that isn't really interesting, and stuff I'm working on that may or may not eventually end up listed here.  Feel free to look through them if you want (if I cared, I'd make them private), but there probably isn't anything there worth seeing.
