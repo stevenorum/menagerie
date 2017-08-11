@@ -34,3 +34,5 @@ Note: All of these tools that deal with cloud services are designed for use with
 Note 2: Although I generally attempt to write secure software, none of the packages here have had any sort of in-depth security review or pen test.  I make no claims as to their security, even the ones that attempt to have a bit like tenzing-repo with auth enabled.
 
 Note 3: Most/possibly all of my python code is written for python3 and may not work with python2, or even versions of python3 prior to python3.6.
+
+Note 4: I have dozens of other public GitHub repos not listed here.  They're a mix of random stuff that I've abandoned but haven't gotten around to cleaning up, old stuff that isn't really interesting, and stuff I'm working on that may or may not eventually end up listed here.
